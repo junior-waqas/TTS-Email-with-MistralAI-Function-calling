@@ -13,7 +13,6 @@ This Python project converts a **voice note to text** using OpenAI's Whisper mod
 
 # Demo
 https://github.com/user-attachments/assets/0bc13adc-fb27-4253-8f3d-fd0cd7b5d080
----
 
 ## 📦 Requirements
 
