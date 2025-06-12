@@ -12,8 +12,7 @@ This Python project converts a **voice note to text** using OpenAI's Whisper mod
 - 🔐 Secures credentials using environment variables (`.env`).
 
 # Demo
-https://github.com/user-attachments/assets/6ce3d38c-93c6-412a-a3a4-f009b97dd042
-
+https://github.com/user-attachments/assets/0bc13adc-fb27-4253-8f3d-fd0cd7b5d080
 ---
 
 ## 📦 Requirements
